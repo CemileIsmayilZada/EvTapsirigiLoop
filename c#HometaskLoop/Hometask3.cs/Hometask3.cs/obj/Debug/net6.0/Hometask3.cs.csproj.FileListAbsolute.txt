@@ -1,0 +1,15 @@
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\bin\Debug\net6.0\Hometask3.cs.exe
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\bin\Debug\net6.0\Hometask3.cs.deps.json
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\bin\Debug\net6.0\Hometask3.cs.runtimeconfig.json
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\bin\Debug\net6.0\Hometask3.cs.dll
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\bin\Debug\net6.0\Hometask3.cs.pdb
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.csproj.AssemblyReference.cache
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.AssemblyInfoInputs.cache
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.AssemblyInfo.cs
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.csproj.CoreCompileInputs.cache
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.dll
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\refint\Hometask3.cs.dll
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.pdb
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\Hometask3.cs.genruntimeconfig.cache
+C:\WorkVs2022\c#HometasksLoop\Hometask3.cs\Hometask3.cs\obj\Debug\net6.0\ref\Hometask3.cs.dll
